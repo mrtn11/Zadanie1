@@ -1,1 +1,3 @@
 Analytický nástroj: Korelačná analýza
+
+Anotácia.
